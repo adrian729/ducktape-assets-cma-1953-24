@@ -1,0 +1,21 @@
+id: cma-1953-24
+title: Cleveland 1953.24, Coronation of the Virgin leaf
+summary: The Coronation of the Virgin and its polychrome floral frame with knotted medallions, from a Tuscan antiphonary leaf painted by the Master of the Beffi Triptych in the 1400s, in the Cleveland Museum of Art.
+kind: historical
+author: adrian729
+maintainer: https://github.com/adrian729/ducktape-assets/issues
+license:
+  artwork: CC0-1.0
+  notes: Extracted from Cleveland Museum of Art open access (CC0) images; see SOURCES.md.
+period: "1400s"
+region: Tuscany, Italy
+style: Italian Gothic illumination
+origin:
+  institution: Cleveland Museum of Art
+  object_identifier: "1953.24"
+  record_url: https://clevelandart.org/art/1953.24
+tags:
+  - antiphonary
+  - miniature
+  - frame
+  - gothic

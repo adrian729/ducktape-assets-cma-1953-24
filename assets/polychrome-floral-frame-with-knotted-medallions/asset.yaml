@@ -1,0 +1,62 @@
+# descriptive: find it and understand it
+id: polychrome-floral-frame-with-knotted-medallions
+title: Floral page frame with knotted medallions
+description: A complete rectangular page frame built on thin blue rods. The top bar carries a band of blue, orange and cream acanthus on gold between two knotted roundels; the left bar strings together knotted medallions, two six-pointed stars with red centres, gold bosses and leaf sprays; the right bar is a chain of acanthus leaves with a blue and orange pendant; the wide bottom bar is a gold band of scrolling acanthus with a quatrefoil medallion at its centre and small buds hanging below. Gold bosses with fine black rays are scattered around the outside; the centre and the background are transparent.
+type: frame
+categories:
+  - floral
+  - scrollwork
+  - knotwork
+  - geometric
+subjects:
+  - frame
+  - acanthus
+  - leaf
+  - flower
+  - medallion
+  - star
+  - sunburst
+  - rod
+  - pendant
+colors:
+  - gold
+  - blue
+  - orange
+  - green
+  - cream
+facing: none
+composition: standalone
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+related:
+  - asset: cma-1953-24/coronation-of-mary-with-six-angels-and-throne
+    role: companion
+usage_notes:
+  - A complete non-repeating frame with its own corners; place content inside the transparent centre and keep the proportions, there is no atlas.
+  - The rayed gold bosses extend outside the rods, so leave margin around the frame rather than cropping to the bars.
+display_width:
+  - 500
+  - 1100
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The fine black rays of the gold bosses are at partial alpha and read differently on dark grounds; the rods are only a few pixels wide at small sizes.
+master: master.png
+provenance:
+  method: mixed-source-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from an Antiphonary: Coronation of the Virgin"
+  object_identifier: "1953.24"
+  date: 1400s
+  artist: Master of the Beffi Triptych (Italian, active 1390–1425)
+  record_url: https://clevelandart.org/art/1953.24
+  image_url: https://openaccess-cdn.clevelandart.org/1953.24/1953.24_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: fad2ff0aae45fd22d3d36c015cd0c4f75c0f59fa1863d74927aea79a725b0b6f
+license: null
